@@ -1,0 +1,10 @@
+*venv
+.env
+.DS_Store
+.pytest-cache
+*venv
+.env
+.DS_Store
+.pytest-cache
+__pycache__/
+*.pyc
